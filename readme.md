@@ -3,7 +3,7 @@
 An interactive, animated Valentine proposal website that allows users to personalize romantic messages, names, and text content to create a beautiful digital surprise for their loved ones.  
 This project works completely offline (locally) and can also be hosted online easily.
 
-> Made using ❤️ with Kimi v2 AI
+> Made using ❤️ with Harshu
 
 ---
 
@@ -275,7 +275,7 @@ Your support keeps this project alive ❤️
 
 ## ❤️ Credits
 
-Made using ❤️ with Kimi v2 AI  
+SHaurya Tiwari 
 Designed & developed for creative learning and love-based web experiences.
 
 ---
